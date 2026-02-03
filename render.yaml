@@ -1,0 +1,8 @@
+staticSites:
+  - name: menu-app
+    buildCommand: npm run build
+    publishDir: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
