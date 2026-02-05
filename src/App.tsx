@@ -219,7 +219,7 @@ function Home() {
           </div>
           <div className="border-t border-zinc-800 mt-8 pt-8 text-center">
             <p className="text-zinc-500 text-sm">
-              © 2025 El Paladar. Todos los derechos reservados.
+              © 2026 El Paladar. Todos los derechos reservados.
             </p>
           </div>
         </div>

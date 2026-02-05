@@ -198,7 +198,7 @@ function Carta() {
               * Las promociones no son acumulables. Válidas de lunes a jueves.
             </p>
             <p className="text-zinc-600 text-xs mt-2">
-              © 2025 El Paladar. Todos los derechos reservados.
+              © 2026 El Paladar. Todos los derechos reservados.
             </p>
           </div>
         </div>
