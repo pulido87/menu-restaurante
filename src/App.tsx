@@ -205,7 +205,7 @@ function Home() {
                 </div>
                 <div className="flex items-center justify-center md:justify-start gap-2 text-zinc-400">
                   <MapPin className="w-4 h-4 text-[#D4AF37]" />
-                  <span>Calle Obispo #123, La Habana</span>
+                  <span>Calle Obispo #123, Pinar del Río</span>
                 </div>
               </div>
             </div>
