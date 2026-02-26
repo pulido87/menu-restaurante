@@ -1,0 +1,9 @@
+:root { font-family: Inter, system-ui, sans-serif; color: #0f172a; }
+body { margin: 0; background: #e2e8f0; }
+.layout { display: grid; grid-template-columns: 360px 1fr; gap: 16px; padding: 16px; min-height: 100vh; }
+.card { background: #fff; border-radius: 16px; padding: 16px; box-shadow: 0 8px 20px rgba(15,23,42,.08); display: flex; flex-direction: column; gap: 8px; }
+.map { height: calc(100vh - 32px); border-radius: 16px; overflow: hidden; }
+input, button { padding: 10px 12px; border-radius: 10px; border: 1px solid #cbd5e1; }
+button { background: #2563eb; color: white; border: none; cursor: pointer; }
+small { color: #334155; cursor: pointer; }
+@media (max-width: 900px) { .layout { grid-template-columns: 1fr; } .map { height: 400px; } }
